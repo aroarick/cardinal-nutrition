@@ -1,0 +1,29 @@
+{
+  "smoothies": [
+    {
+      "title": "Apple Cinnamon Oatmeal",
+      "ingredients": "apple &#8226; cinnamon &#8226; oats",
+      "calories": "200 | 300 cal"
+    },
+    {
+      "title": "Apple Crisp",
+      "ingredients": "apple &#8226; cinnamon &#8226;",
+      "calories": "200 | 300 cal"
+    },
+    {
+      "title": "Apple Jacks Banana",
+      "ingredients": "apple jacks &#8226; banana &#8226;",
+      "calories": "200 | 300 cal"
+    },
+    {
+      "title": "Blueberry Muffin",
+      "ingredients": "blueberries",
+      "calories": "200 | 300"
+    },
+    {
+      "title": "Brownie Batter",
+      "ingredients": "brownie &#8226; batter &#8226;",
+      "calories": "200 | 300"
+    }
+  ]
+}
